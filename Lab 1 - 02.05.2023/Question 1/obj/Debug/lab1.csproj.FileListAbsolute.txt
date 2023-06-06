@@ -1,0 +1,16 @@
+C:\Users\DELL\OneDrive - NSBM\year 1\Semester 2\C#\lab1\bin\Debug\lab1.exe.config
+C:\Users\DELL\OneDrive - NSBM\year 1\Semester 2\C#\lab1\bin\Debug\lab1.exe
+C:\Users\DELL\OneDrive - NSBM\year 1\Semester 2\C#\lab1\bin\Debug\lab1.pdb
+C:\Users\DELL\OneDrive - NSBM\year 1\Semester 2\C#\lab1\obj\Debug\lab1.csproj.AssemblyReference.cache
+C:\Users\DELL\OneDrive - NSBM\year 1\Semester 2\C#\lab1\obj\Debug\lab1.csproj.SuggestedBindingRedirects.cache
+C:\Users\DELL\OneDrive - NSBM\year 1\Semester 2\C#\lab1\obj\Debug\lab1.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive - NSBM\year 1\Semester 2\C#\lab1\obj\Debug\lab1.exe
+C:\Users\DELL\OneDrive - NSBM\year 1\Semester 2\C#\lab1\obj\Debug\lab1.pdb
+C:\Users\DELL\OneDrive - NSBM\year 1\Semester 2\C#\lab sessions\lab1\bin\Debug\lab1.exe.config
+C:\Users\DELL\OneDrive - NSBM\year 1\Semester 2\C#\lab sessions\lab1\bin\Debug\lab1.exe
+C:\Users\DELL\OneDrive - NSBM\year 1\Semester 2\C#\lab sessions\lab1\bin\Debug\lab1.pdb
+C:\Users\DELL\OneDrive - NSBM\year 1\Semester 2\C#\lab sessions\lab1\obj\Debug\lab1.csproj.AssemblyReference.cache
+C:\Users\DELL\OneDrive - NSBM\year 1\Semester 2\C#\lab sessions\lab1\obj\Debug\lab1.csproj.SuggestedBindingRedirects.cache
+C:\Users\DELL\OneDrive - NSBM\year 1\Semester 2\C#\lab sessions\lab1\obj\Debug\lab1.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive - NSBM\year 1\Semester 2\C#\lab sessions\lab1\obj\Debug\lab1.exe
+C:\Users\DELL\OneDrive - NSBM\year 1\Semester 2\C#\lab sessions\lab1\obj\Debug\lab1.pdb
