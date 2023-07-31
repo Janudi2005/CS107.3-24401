@@ -1,0 +1,8 @@
+C:\Users\DELL\OneDrive - NSBM\year 1\Semester 2\C#\CS107.3-24401\Lab 9 - 11.07.2023\Question 1\obj\Debug\Question 1.csproj.AssemblyReference.cache
+C:\Users\DELL\OneDrive - NSBM\year 1\Semester 2\C#\CS107.3-24401\Lab 9 - 11.07.2023\Question 1\obj\Debug\Question 1.csproj.SuggestedBindingRedirects.cache
+C:\Users\DELL\OneDrive - NSBM\year 1\Semester 2\C#\CS107.3-24401\Lab 9 - 11.07.2023\Question 1\obj\Debug\Question 1.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive - NSBM\year 1\Semester 2\C#\CS107.3-24401\Lab 9 - 11.07.2023\Question 1\obj\Debug\Question 1.exe
+C:\Users\DELL\OneDrive - NSBM\year 1\Semester 2\C#\CS107.3-24401\Lab 9 - 11.07.2023\Question 1\obj\Debug\Question 1.pdb
+C:\Users\DELL\OneDrive - NSBM\year 1\Semester 2\C#\CS107.3-24401\Lab 9 - 11.07.2023\Question 1\bin\Debug\Question 1.exe.config
+C:\Users\DELL\OneDrive - NSBM\year 1\Semester 2\C#\CS107.3-24401\Lab 9 - 11.07.2023\Question 1\bin\Debug\Question 1.exe
+C:\Users\DELL\OneDrive - NSBM\year 1\Semester 2\C#\CS107.3-24401\Lab 9 - 11.07.2023\Question 1\bin\Debug\Question 1.pdb
